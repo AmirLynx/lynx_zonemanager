@@ -1,6 +1,6 @@
 # lynx_zonemanager
 
-[![Discord](https://img.shields.io/badge/Discord-Amir__Lynx%239439-orange)](Amir_Lynx#9439)
+[![Discord](https://img.shields.io/badge/Discord-Amir__Lynx%239439-orange)](https://discordapp.com/users/440702426765590529)
 
 - Add zone when player set in job
 - Remove zone when player remove from job
